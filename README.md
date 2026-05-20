@@ -1,10 +1,4 @@
 <div align="center">
-  <h1>PROYECTO: ACUAMETRIC</h1>
-  <p><i>Estimación de peso de peces en ecosistemas LTRM</i></p>
-</div>
-
----
-<div align="center">
   <img src="Logo_CUGDL_1.png" alt="Logo CU Guadalajara" width="796" height="256">
   <h1>PROYECTO: ACUAMETRIC</h1>
   <p><i>Estimación de peso de peces en ecosistemas LTRM</i></p>
